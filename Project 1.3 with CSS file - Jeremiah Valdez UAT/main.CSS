@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+    color: darkgreen;
+}
+
+nav {
+    height: 500px;
+    width: 250px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
